@@ -1,9 +1,6 @@
-# CodeIgniter Rest Server (by Resources)
+# Implementation of Phil Sturgeon's CI Rest Server
 
-A fully RESTful server implementation for CodeIgniter using one library, one
-config file, and a controller for each resource. 
-
-This is a fork from Phil Sturgeon's CodeIgniter Rest Server (http://github.com/philsturgeon/codeigniter-restserver) under the terms of his own DBAD license (http://www.dbad-license.org/). The primary difference is that resources are handled by their own controllers rather than the single controller used by Phil.
+An implementation of PHP Codeigniter Rest Server created by Phil Sturgeon and modified by Adam Whitney. Here I am planning to test REST based login and authentication server. But not done yet.
 
 ## Requirements
 
